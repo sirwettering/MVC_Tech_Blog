@@ -6,11 +6,11 @@ A MySQL database and CMS-style Blog built using Model View Controller (MVC) para
 
 ## Application Deployment
 
-
+[Visit my Blog Here](https://shielded-bayou-87205.herokuapp.com/)
 
 ## Application Screenshot
 
-
+![Homepage Screenshot](homepage.png)
   
 ## User Story
 
