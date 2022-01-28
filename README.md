@@ -1,28 +1,28 @@
-## MVC Tech Blog
+# MVC Tech Blog
    
-### Description
+## Description
 
-*A mysql database and CMS-style Blog built using Model View Controller (MVC) paradigm. Built using MySQL2, Express, Sequelize, Bulma, Handlebars and dotenv*
+A MySQL database and CMS-style Blog built using Model View Controller (MVC) paradigm. Built using MySQL2, Express, Sequelize, Bulma, Handlebars and dotenv.
 
-### Application Deployment
+## Application Deployment
 
-https://mvc-tech-blog.herokuapp.com/
 
-### Application Screenshot
 
-![](images/mvc-tech-blog.png)
+## Application Screenshot
+
+
   
-### User Story
+## User Story
 
-```
+
 AS A developer who writes about tech
 I WANT a CMS-style blog site
 SO THAT I can publish articles, blog posts, and my thoughts and opinions
-```
 
-### Acceptance Criteria
 
-```
+## Acceptance Criteria
+
+
 GIVEN a CMS-style blog site
 WHEN I visit the site for the first time
 THEN I am presented with the homepage, which includes existing blog posts if any have been posted; navigation links for the homepage and the dashboard; and the option to log in
@@ -56,14 +56,3 @@ WHEN I click on the logout option in the navigation
 THEN I am signed out of the site
 WHEN I am idle on the page for more than a set time
 THEN I am automatically signed out of the site
-```
-
-### Installation Guidelines
-
-- Add a .env file to the root of the project
-
-```text
-DB_NAME='tech_blog_db'
-DB_USER='root'
-DB_PW='XXX'
-```# MVC_Tech_Blog
