@@ -6,7 +6,6 @@ const postData = [
         post_content: "Hook-up with Trainers to meet you health and fitness goals",
         user_id: 3
     }
-
 ]
 
 const seedPosts = () => Post.bulkCreate(postData);
