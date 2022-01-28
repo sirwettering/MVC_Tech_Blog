@@ -13,11 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/sirwettering/MVC_Tech_Blog"
   },
-  "author": "Priya Ravi",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sirwettering/MVC_Tech_Blog"
-  },
   "homepage": "https://github.com/sirwettering/MVC_Tech_Blog",
   "dependencies": {
     "bcrypt": "^5.0.0",

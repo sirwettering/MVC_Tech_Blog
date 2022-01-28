@@ -17,7 +17,7 @@
   }
   
   a:hover {
-    color: #3486eb;
+    color: #34eb52;
   }
   
   button {
@@ -42,7 +42,7 @@
   
   textarea:focus, input:focus {
     outline: none;
-    border: 1px solid #3486eb;
+    border: 1px solid #34eb5c;
   }
   
   textarea {
@@ -68,7 +68,7 @@
   }
   
   header {
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid rgb(204, 204, 204);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -86,7 +86,7 @@
     padding: 0;
     cursor: pointer;
     text-decoration: none;
-    color: #225ca3;
+    color: #22a372;
     font-size: 100%;
     font-weight: bold;
     transition: color .1s;
@@ -95,7 +95,7 @@
   
   .btn-no-style:hover {
     background: none;
-    color: #3486eb;
+    color: #34eb80;
   }
   
   .delete-post-btn {
@@ -132,7 +132,7 @@
   }
   
   .comment:nth-child(odd) {
-    background-color: #fff5eb;
+    background-color: #87c8f3;
   }
   
   .comment .meta {
@@ -146,7 +146,7 @@
   }
   
   footer {
-    border-top: 1px solid #ccc;
+    border-top: 1px solid rgb(204, 204, 204);
     display: flex;
     justify-content: center;
     padding: 1%;
